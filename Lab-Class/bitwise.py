@@ -1,0 +1,10 @@
+a = int(input("Enter the first no.\n"))
+b = int(input("Enter the second no.\n"))
+l= a<<2
+r = a>>2
+print("r=",r)
+print("l=",l)
+print(a,"&",b,"=",a & b)
+print(a,"|",b,"=",a | b)
+print("~",b,"=",~b)
+print(a,"^",b,"=",a ^ b)

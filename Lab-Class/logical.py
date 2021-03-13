@@ -1,0 +1,5 @@
+a = int(input("Enter the first no.\n"))
+b = int(input("Enter the second no.\n"))
+print(a,"and",b,"=",a and b)
+print(a,"or",b,"=",a or b)
+print("not",b,"=",not b)
